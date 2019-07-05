@@ -2,7 +2,8 @@
   "name": "react-tanimate",
   "version": "1.1.0",
   "description": "",
-  "main": "dist/bundle.js",
+  "main": "./dist/bundle",
+  "module": "./src/TAinamte",
   "files": [
     "dist",
     "src"
